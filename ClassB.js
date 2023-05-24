@@ -33,4 +33,9 @@ class B {
   MB2() {
     console.log("Método MB2");
   }
+
+  // Método MB3 adicionado
+  MB3() {
+    console.log("Método MB3");
+  }
 }
