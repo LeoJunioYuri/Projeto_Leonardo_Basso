@@ -33,4 +33,9 @@ class A {
   MA2() {
     console.log("Método MA2");
   }
+
+  // Método MA3
+  MA3() {
+    console.log("Alteração a classe A partir do clone");
+  }
 }
