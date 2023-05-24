@@ -33,6 +33,11 @@ class C {
   MC2() {
     console.log("Método MC2");
   }
+
+  // Método MC3 adicionado
+  MC3() {
+    console.log("Método MC3");
+  }
 }
 
 // Exemplo de uso das classes A e C
