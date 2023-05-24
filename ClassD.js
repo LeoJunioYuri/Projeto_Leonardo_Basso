@@ -38,4 +38,9 @@ class D {
   MD3() {
     console.log("Método MD3");
   }
+
+  // Método MD4
+  MD4() {
+    console.log("Método MD4");
+  }
 }
